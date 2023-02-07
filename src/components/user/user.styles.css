@@ -1,0 +1,22 @@
+.user-container{
+    border: 2px solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 11vh;
+    
+}
+
+.action-container{
+    width:6vw;
+    /* height: fit-content; */
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+}
+.hide{
+    display: none;
+}
+.set-background{
+    background-color: gray;
+}
