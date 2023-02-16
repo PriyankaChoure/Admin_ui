@@ -8,11 +8,17 @@
 }
 
 .action-container{
-    width:6vw;
+    /* width:30vw; */
     /* height: fit-content; */
-    /* border: 1px solid red; */
+    border: 1px solid blue;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+}
+.action-container-mobile{
+    width:30vw;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
 }
 .hide{
     display: none;
